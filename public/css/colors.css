@@ -1,0 +1,49 @@
+.blue-gradient {
+    background: #56CCF2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: #ffffff;
+}
+
+.red-gradient {
+    background: #ff0084;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #33001b, #ff0084);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #33001b, #ff0084); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffffff;
+
+}
+
+.limeade {
+    background: #A1FFCE;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FAFFD1, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #1d1e1f;
+}
+
+.alive {
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffffff;
+}
+
+.luch {
+    background: #56ab2f;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffffff;
+}
+
+.socialive {
+    background: #06beb6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #48b1bf, #06beb6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #48b1bf, #06beb6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffffff;
+}
+
+
+
+
+
+
